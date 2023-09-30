@@ -1,5 +1,10 @@
 # ModifiedMeshGraphNet
 
+.pt data is in DATA/flag_simple_test
+notebook used to create .pt data is in "data creation"
+
+Model ran using this format
+python -m run_model  --mode=train --model=cloth --dataset = DATA/flag_simple_test
 
 After Running "runmodel.py" Should result in the following output and error
 
